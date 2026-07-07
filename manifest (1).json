@@ -1,0 +1,10 @@
+{
+  "_schema": {
+    "file": "icon filename (icon-<name>.svg)",
+    "source": "library name + icon id (e.g. 'lucide/search') or 'bespoke'",
+    "licence": "ISC | MIT | Eko-owned",
+    "date": "YYYY-MM-DD added",
+    "origin": "originating build/client, or 'base-seed'"
+  },
+  "icons": []
+}
