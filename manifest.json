@@ -11,49 +11,937 @@
     "parent": "optional — parent asset filename if derivative"
   },
   "assets": [
-    {"file":"eko-robot_magnifier-results_832x1248.jpg","category":"illustrative","source":"extracted","licence":"Eko-owned","date":"2026-08-11","origin":"AF/WU audit deck build Aug 2026","keywords":["robot","hero","character","magnifier","results","audit"],"dims":"832x1248"},
-    {"file":"eko-robot_magnifier-results_goldrow_832x1248.jpg","category":"illustrative","source":"PIL","licence":"Eko-owned","date":"2026-08-11","origin":"Stephen Reed deck v1.4","keywords":["robot","hero","character","gold row","answer","highlight"],"dims":"832x1248","parent":"eko-robot_magnifier-results_832x1248.jpg"},
-    {"file":"answer-stack_headland_900x1350.jpg","category":"illustrative","source":"Z-Image","licence":"Eko-owned","date":"2026-08-11","origin":"Stephen Reed deck v1.0","keywords":["abstract","answer list","gold slot","coastline","beam"],"dims":"900x1350"},
-    {"file":"texture-dark_topo-green_1000x563.jpg","category":"textures","source":"Z-Image","licence":"Eko-owned","date":"2026-08-11","origin":"Stephen Reed deck v1.0","keywords":["dark","forest green","topographic","section bg"],"dims":"1000x563"},
-    {"file":"texture-light_paper-contour_1000x563.jpg","category":"textures","source":"PIL","licence":"Eko-owned","date":"2026-08-11","origin":"Stephen Reed deck v1.0","keywords":["light","paper","mint contour","section bg"],"dims":"1000x563"},
-    {"file": "paper-streams_light-burst_dark-blue_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["paper streams", "documents", "envelopes", "listings", "reviews", "converging light", "dark blue", "marketing comms"], "dims": "781x1400"},
-    {"file": "agent-morning-kitchen_docs-organised_sunrise_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["agent", "kitchen", "morning", "sunrise", "phone", "heartbeat", "organised documents", "before after", "lifestyle", "fictional person"], "dims": "781x1400"},
-    {"file": "paper-tornado_agent-standing_dark_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["paper tornado", "comms overload", "envelopes", "speech bubbles", "agent", "dark", "cinematic", "fictional person"], "dims": "781x1400"},
-    {"file": "geodesic-sphere_data-cubes_gold-light_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["geodesic sphere", "data cubes", "structure", "assembly", "gold light", "abstract", "tech"], "dims": "781x1400"},
-    {"file": "agent-overwhelmed_paper-storm_neon-icons_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["agent", "overwhelmed", "paper storm", "email icons", "speech bubbles", "red glow", "chaos", "fictional person"], "dims": "781x1400"},
-    {"file": "tile-grid_spotlight_scattered-listings_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["tile grid", "spotlight", "scattered documents", "listings", "cracked tiles", "red cracks", "dark blue"], "dims": "781x1400"},
-    {"file": "paper-vortex_agent_glow-orbs_warehouse_781x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["paper vortex", "agent", "glow orbs", "warehouse", "cinematic", "comms", "fictional person"], "dims": "781x1400"},
-    {"file": "android-woman_portrait_grey_1400x1400.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch, 11 Aug 2026", "keywords": ["android", "fictional person", "portrait", "grey", "humanoid", "ai assistant"], "dims": "1400x1400"},
-    {"file": "mt-taranaki_tarn-reflection_hikers_1500x1500.jpg", "category": "backgrounds", "source": "photo", "licence": "Pexels (free commercial)", "date": "2026-08-11", "origin": "Pexels — photographer silentjars", "keywords": ["mt taranaki", "mountain", "reflection", "tarn", "nz landscape", "hikers", "aspirational"], "dims": "1500x1500"},
-    {"file": "fiordland_alpine-valley_snow-peaks_1500x1125.jpg", "category": "backgrounds", "source": "photo", "licence": "Pexels (free commercial)", "date": "2026-08-11", "origin": "Pexels — photographer Elizaveta Vinogradova", "keywords": ["fiordland", "milford road", "alpine valley", "snow peaks", "nz landscape"], "dims": "1500x1125"},
-    {"file": "hobbiton_green-door_garden-steps_1500x1500.jpg", "category": "backgrounds", "source": "photo", "licence": "Pexels (free commercial)", "date": "2026-08-11", "origin": "Pexels — photographer Elijah J Cobb", "keywords": ["hobbiton", "green door", "garden", "waikato", "CAUTION location IP — editorial only"], "dims": "1500x1500"},
-    {"file": "nz-coastal-headland_cliffs-turquoise-sea_1500x1500.jpg", "category": "backgrounds", "source": "photo", "licence": "Pexels (free commercial)", "date": "2026-08-11", "origin": "Pexels — photographer Donovan Kelly", "keywords": ["nz coast", "headland", "cliffs", "turquoise sea", "farmland", "aspirational"], "dims": "1500x1500"},
-    {"file": "blog-header_brand-visibility-ai-search_blue_1500x837.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["blog header", "brand visibility", "ai search", "blue", "rendered text"], "dims": "1500x837"},
-    {"file": "cafe-lunch-friends_ghost-assistant_beach_1208x1500.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["cafe", "friends", "lunch", "beach", "ghost mascot", "assistant", "nz lifestyle", "fictional person"], "dims": "1208x1500"},
-    {"file": "netball-sideline-mum_ghost-phone_winter_1208x1500.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["netball", "sideline", "mum", "phone", "ghost mascot", "nz lifestyle", "fictional person"], "dims": "1208x1500"},
-    {"file": "android-presenter-woman_tablet_dark-green_1500x818.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["android", "presenter", "tablet", "dark green", "eko palette", "fictional person"], "dims": "1500x818"},
-    {"file": "robot-desk_document-handover_green-office_1500x466.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["robot", "desk", "document handover", "padlock", "green office", "agreement"], "dims": "1500x466"},
-    {"file": "golfer_ghost-assistant-phone_sunset-course_1208x1500.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["golfer", "golf course", "phone", "ghost mascot", "sunset", "nz lifestyle", "fictional person"], "dims": "1208x1500"},
-    {"file": "flywheel_every-sale-feeds-the-next_dark-green_1500x818.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["flywheel", "sold story", "geo lever", "infographic", "dark green", "gold", "rendered text"], "dims": "1500x818"},
-    {"file": "businessman-robot_hologram-lab_servers_1500x860.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["businessman", "robot", "hologram", "server room", "collaboration", "fictional person"], "dims": "1500x860"},
-    {"file": "fisherman-boat_ghost-assistant-phone_coast_1208x1500.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["fisherman", "boat", "phone", "ghost mascot", "nz coast", "lifestyle", "fictional person"], "dims": "1208x1500"},
-    {"file": "robot-pipeline_read-database-load-deliver_mint_1500x742.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["robot", "pipeline", "read", "database", "load", "deliver", "process", "mint", "isometric"], "dims": "1500x742"},
-    {"file": "robot-mascot_pose-sheet-4up_grey_1500x818.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["robot", "mascot", "pose sheet", "4up", "alt character", "hats"], "dims": "1500x818"},
-    {"file": "laptop-mockup_listings-property-files_desk_1500x742.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["laptop", "mockup", "listings", "property files", "ui", "desk", "mock ui text"], "dims": "1500x742"},
-    {"file": "assistant-pipeline_sources-to-outputs_isometric_1500x742.jpg", "category": "illustrative", "source": "Gemini", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied concept batch 2, 11 Aug 2026", "keywords": ["assistant", "pipeline", "sources", "outputs", "isometric", "CAUTION third-party logos (Gmail, Trade Me)"], "dims": "1500x742"},
-    {"file": "construction-site_three-workers-hivis_scaffold_612x390.jpg", "category": "backgrounds", "source": "photo", "licence": "stock — PENDING VERIFICATION", "date": "2026-08-11", "origin": "website build stock (source TBC by owner)", "keywords": ["construction", "workers", "hi-vis", "scaffold", "crane", "real people", "LICENCE PENDING — no client-facing reuse until confirmed"], "dims": "612x390"},
-    {"file": "new-build-interior_couple-plans_timber_774x516.jpg", "category": "backgrounds", "source": "photo", "licence": "stock — PENDING VERIFICATION", "date": "2026-08-11", "origin": "website build stock (source TBC by owner)", "keywords": ["new build", "interior", "plans", "timber frame", "couple", "real people", "LICENCE PENDING — no client-facing reuse until confirmed"], "dims": "774x516"},
-    {"file": "roofers_tile-installation_blue-sky_648x576.jpg", "category": "backgrounds", "source": "photo", "licence": "stock — PENDING VERIFICATION", "date": "2026-08-11", "origin": "website build stock (source TBC by owner)", "keywords": ["roofers", "tiles", "roof", "hi-vis", "blue sky", "real people", "LICENCE PENDING — no client-facing reuse until confirmed"], "dims": "648x576"},
-    {"file": "coast-rainbow_storm-light_dark-sea_1280x720.jpg", "category": "backgrounds", "source": "Grok", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied batch 3, 11 Aug 2026", "keywords": ["coast", "rainbow", "storm light", "dark sea", "moody", "nz feel"], "dims": "1280x720"},
-    {"file": "wellington_cable-car_harbour-dusk_784x1312.jpg", "category": "backgrounds", "source": "Grok", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied batch 3, 11 Aug 2026", "keywords": ["wellington", "cable car", "harbour", "dusk", "cityscape"], "dims": "784x1312"},
-    {"file": "living-room_lakeview_golden-hour_720x1440.jpg", "category": "backgrounds", "source": "Grok", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied batch 3, 11 Aug 2026", "keywords": ["living room", "lake view", "golden hour", "interior", "staging", "property"], "dims": "720x1440"},
-    {"file": "mri-scanner_white-room_blue-ring_720x1424.jpg", "category": "illustrative", "source": "Grok", "licence": "Eko-owned", "date": "2026-08-11", "origin": "owner-supplied batch 3, 11 Aug 2026", "keywords": ["mri", "scanner", "medical", "white room", "blue", "healthcare"], "dims": "720x1424"},
-    {"file": "mh-icon-trowel_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "trowel", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-roof_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "roof", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-roller_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "roller", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-interior_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "interior", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-house_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "house", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-brush_tan.png", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon", "brush", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "320x320"},
-    {"file": "mh-icon-set_contact-sheet-6up_tan.jpg", "category": "illustrative", "source": "hand", "licence": "Eko-owned", "date": "2026-08-11", "origin": "MH Painting site build", "keywords": ["icon set", "contact sheet", "painting trade", "tan palette", "client-origin (MH Painting) — avoid reuse for competing painting clients"], "dims": "960x640"}
+    {
+      "file": "eko-robot_magnifier-results_832x1248.jpg",
+      "category": "illustrative",
+      "source": "extracted",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "AF/WU audit deck build Aug 2026",
+      "keywords": [
+        "robot",
+        "hero",
+        "character",
+        "magnifier",
+        "results",
+        "audit"
+      ],
+      "dims": "832x1248"
+    },
+    {
+      "file": "eko-robot_magnifier-results_goldrow_832x1248.jpg",
+      "category": "illustrative",
+      "source": "PIL",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "Stephen Reed deck v1.4",
+      "keywords": [
+        "robot",
+        "hero",
+        "character",
+        "gold row",
+        "answer",
+        "highlight"
+      ],
+      "dims": "832x1248",
+      "parent": "eko-robot_magnifier-results_832x1248.jpg"
+    },
+    {
+      "file": "answer-stack_headland_900x1350.jpg",
+      "category": "illustrative",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "Stephen Reed deck v1.0",
+      "keywords": [
+        "abstract",
+        "answer list",
+        "gold slot",
+        "coastline",
+        "beam"
+      ],
+      "dims": "900x1350"
+    },
+    {
+      "file": "texture-dark_topo-green_1000x563.jpg",
+      "category": "textures",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "Stephen Reed deck v1.0",
+      "keywords": [
+        "dark",
+        "forest green",
+        "topographic",
+        "section bg"
+      ],
+      "dims": "1000x563"
+    },
+    {
+      "file": "texture-light_paper-contour_1000x563.jpg",
+      "category": "textures",
+      "source": "PIL",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "Stephen Reed deck v1.0",
+      "keywords": [
+        "light",
+        "paper",
+        "mint contour",
+        "section bg"
+      ],
+      "dims": "1000x563"
+    },
+    {
+      "file": "paper-streams_light-burst_dark-blue_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "paper streams",
+        "documents",
+        "envelopes",
+        "listings",
+        "reviews",
+        "converging light",
+        "dark blue",
+        "marketing comms"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "agent-morning-kitchen_docs-organised_sunrise_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "agent",
+        "kitchen",
+        "morning",
+        "sunrise",
+        "phone",
+        "heartbeat",
+        "organised documents",
+        "before after",
+        "lifestyle",
+        "fictional person"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "paper-tornado_agent-standing_dark_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "paper tornado",
+        "comms overload",
+        "envelopes",
+        "speech bubbles",
+        "agent",
+        "dark",
+        "cinematic",
+        "fictional person"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "geodesic-sphere_data-cubes_gold-light_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "geodesic sphere",
+        "data cubes",
+        "structure",
+        "assembly",
+        "gold light",
+        "abstract",
+        "tech"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "agent-overwhelmed_paper-storm_neon-icons_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "agent",
+        "overwhelmed",
+        "paper storm",
+        "email icons",
+        "speech bubbles",
+        "red glow",
+        "chaos",
+        "fictional person"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "tile-grid_spotlight_scattered-listings_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "tile grid",
+        "spotlight",
+        "scattered documents",
+        "listings",
+        "cracked tiles",
+        "red cracks",
+        "dark blue"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "paper-vortex_agent_glow-orbs_warehouse_781x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "paper vortex",
+        "agent",
+        "glow orbs",
+        "warehouse",
+        "cinematic",
+        "comms",
+        "fictional person"
+      ],
+      "dims": "781x1400"
+    },
+    {
+      "file": "android-woman_portrait_grey_1400x1400.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch, 11 Aug 2026",
+      "keywords": [
+        "android",
+        "fictional person",
+        "portrait",
+        "grey",
+        "humanoid",
+        "ai assistant"
+      ],
+      "dims": "1400x1400"
+    },
+    {
+      "file": "mt-taranaki_tarn-reflection_hikers_1500x1500.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Pexels (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Pexels — photographer silentjars",
+      "keywords": [
+        "mt taranaki",
+        "mountain",
+        "reflection",
+        "tarn",
+        "nz landscape",
+        "hikers",
+        "aspirational"
+      ],
+      "dims": "1500x1500"
+    },
+    {
+      "file": "fiordland_alpine-valley_snow-peaks_1500x1125.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Pexels (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Pexels — photographer Elizaveta Vinogradova",
+      "keywords": [
+        "fiordland",
+        "milford road",
+        "alpine valley",
+        "snow peaks",
+        "nz landscape"
+      ],
+      "dims": "1500x1125"
+    },
+    {
+      "file": "hobbiton_green-door_garden-steps_1500x1500.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Pexels (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Pexels — photographer Elijah J Cobb",
+      "keywords": [
+        "hobbiton",
+        "green door",
+        "garden",
+        "waikato",
+        "CAUTION location IP — editorial only"
+      ],
+      "dims": "1500x1500"
+    },
+    {
+      "file": "nz-coastal-headland_cliffs-turquoise-sea_1500x1500.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Pexels (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Pexels — photographer Donovan Kelly",
+      "keywords": [
+        "nz coast",
+        "headland",
+        "cliffs",
+        "turquoise sea",
+        "farmland",
+        "aspirational"
+      ],
+      "dims": "1500x1500"
+    },
+    {
+      "file": "blog-header_brand-visibility-ai-search_blue_1500x837.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "blog header",
+        "brand visibility",
+        "ai search",
+        "blue",
+        "rendered text"
+      ],
+      "dims": "1500x837"
+    },
+    {
+      "file": "cafe-lunch-friends_ghost-assistant_beach_1208x1500.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "cafe",
+        "friends",
+        "lunch",
+        "beach",
+        "ghost mascot",
+        "assistant",
+        "nz lifestyle",
+        "fictional person"
+      ],
+      "dims": "1208x1500"
+    },
+    {
+      "file": "netball-sideline-mum_ghost-phone_winter_1208x1500.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "netball",
+        "sideline",
+        "mum",
+        "phone",
+        "ghost mascot",
+        "nz lifestyle",
+        "fictional person"
+      ],
+      "dims": "1208x1500"
+    },
+    {
+      "file": "android-presenter-woman_tablet_dark-green_1500x818.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "android",
+        "presenter",
+        "tablet",
+        "dark green",
+        "eko palette",
+        "fictional person"
+      ],
+      "dims": "1500x818"
+    },
+    {
+      "file": "robot-desk_document-handover_green-office_1500x466.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "robot",
+        "desk",
+        "document handover",
+        "padlock",
+        "green office",
+        "agreement"
+      ],
+      "dims": "1500x466"
+    },
+    {
+      "file": "golfer_ghost-assistant-phone_sunset-course_1208x1500.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "golfer",
+        "golf course",
+        "phone",
+        "ghost mascot",
+        "sunset",
+        "nz lifestyle",
+        "fictional person"
+      ],
+      "dims": "1208x1500"
+    },
+    {
+      "file": "flywheel_every-sale-feeds-the-next_dark-green_1500x818.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "flywheel",
+        "sold story",
+        "geo lever",
+        "infographic",
+        "dark green",
+        "gold",
+        "rendered text"
+      ],
+      "dims": "1500x818"
+    },
+    {
+      "file": "businessman-robot_hologram-lab_servers_1500x860.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "businessman",
+        "robot",
+        "hologram",
+        "server room",
+        "collaboration",
+        "fictional person"
+      ],
+      "dims": "1500x860"
+    },
+    {
+      "file": "fisherman-boat_ghost-assistant-phone_coast_1208x1500.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "fisherman",
+        "boat",
+        "phone",
+        "ghost mascot",
+        "nz coast",
+        "lifestyle",
+        "fictional person"
+      ],
+      "dims": "1208x1500"
+    },
+    {
+      "file": "robot-pipeline_read-database-load-deliver_mint_1500x742.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "robot",
+        "pipeline",
+        "read",
+        "database",
+        "load",
+        "deliver",
+        "process",
+        "mint",
+        "isometric"
+      ],
+      "dims": "1500x742"
+    },
+    {
+      "file": "robot-mascot_pose-sheet-4up_grey_1500x818.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "robot",
+        "mascot",
+        "pose sheet",
+        "4up",
+        "alt character",
+        "hats"
+      ],
+      "dims": "1500x818"
+    },
+    {
+      "file": "laptop-mockup_listings-property-files_desk_1500x742.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "laptop",
+        "mockup",
+        "listings",
+        "property files",
+        "ui",
+        "desk",
+        "mock ui text"
+      ],
+      "dims": "1500x742"
+    },
+    {
+      "file": "assistant-pipeline_sources-to-outputs_isometric_1500x742.jpg",
+      "category": "illustrative",
+      "source": "Gemini",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied concept batch 2, 11 Aug 2026",
+      "keywords": [
+        "assistant",
+        "pipeline",
+        "sources",
+        "outputs",
+        "isometric",
+        "CAUTION third-party logos (Gmail, Trade Me)"
+      ],
+      "dims": "1500x742"
+    },
+    {
+      "file": "construction-site_three-workers-hivis_scaffold_612x390.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (source TBC by owner)",
+      "keywords": [
+        "construction",
+        "workers",
+        "hi-vis",
+        "scaffold",
+        "crane",
+        "real people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "612x390"
+    },
+    {
+      "file": "new-build-interior_couple-plans_timber_774x516.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (source TBC by owner)",
+      "keywords": [
+        "new build",
+        "interior",
+        "plans",
+        "timber frame",
+        "couple",
+        "real people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "774x516"
+    },
+    {
+      "file": "roofers_tile-installation_blue-sky_648x576.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (source TBC by owner)",
+      "keywords": [
+        "roofers",
+        "tiles",
+        "roof",
+        "hi-vis",
+        "blue sky",
+        "real people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "648x576"
+    },
+    {
+      "file": "coast-rainbow_storm-light_dark-sea_1280x720.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 3, 11 Aug 2026",
+      "keywords": [
+        "coast",
+        "rainbow",
+        "storm light",
+        "dark sea",
+        "moody",
+        "nz feel"
+      ],
+      "dims": "1280x720"
+    },
+    {
+      "file": "wellington_cable-car_harbour-dusk_784x1312.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 3, 11 Aug 2026",
+      "keywords": [
+        "wellington",
+        "cable car",
+        "harbour",
+        "dusk",
+        "cityscape"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "living-room_lakeview_golden-hour_720x1440.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 3, 11 Aug 2026",
+      "keywords": [
+        "living room",
+        "lake view",
+        "golden hour",
+        "interior",
+        "staging",
+        "property"
+      ],
+      "dims": "720x1440"
+    },
+    {
+      "file": "mri-scanner_white-room_blue-ring_720x1424.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 3, 11 Aug 2026",
+      "keywords": [
+        "mri",
+        "scanner",
+        "medical",
+        "white room",
+        "blue",
+        "healthcare"
+      ],
+      "dims": "720x1424"
+    },
+    {
+      "file": "mh-icon-trowel_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "trowel",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-roof_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "roof",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-roller_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "roller",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-interior_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "interior",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-house_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "house",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-brush_tan.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon",
+        "brush",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "320x320"
+    },
+    {
+      "file": "mh-icon-set_contact-sheet-6up_tan.jpg",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "MH Painting site build",
+      "keywords": [
+        "icon set",
+        "contact sheet",
+        "painting trade",
+        "tan palette",
+        "client-origin (MH Painting) — avoid reuse for competing painting clients"
+      ],
+      "dims": "960x640"
+    },
+    {
+      "file": "cover_ai-visibility-benchmarks-nz-2026_yellow-map_784x1312.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "cover",
+        "benchmarks",
+        "nz map",
+        "glowing",
+        "yellow-black palette",
+        "rendered text"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "contact-sheet_benchmark-report-tiles_9up_yellow_784x1312.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "contact sheet",
+        "report tiles",
+        "9up",
+        "yellow-black palette",
+        "nz",
+        "construction",
+        "coding"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "icon-sheet_neon-yellow_marketing-24up_784x1312.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "icon sheet",
+        "neon yellow",
+        "marketing",
+        "24up",
+        "CAUTION contains LinkedIn logo tile — exclude that tile in use"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "gothic-church_river-dusk_streetlamps_784x1312.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "gothic church",
+        "river",
+        "dusk",
+        "streetlamps",
+        "heritage",
+        "dunedin feel"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "earth_nz-glowing-network_space-dark_704x1472.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "earth",
+        "nz",
+        "glowing network",
+        "space",
+        "dark",
+        "yellow-black palette"
+      ],
+      "dims": "704x1472"
+    },
+    {
+      "file": "earth_nz-glowing-network_space-dark-v2_704x1472.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "earth",
+        "nz",
+        "glowing network",
+        "space",
+        "dark",
+        "variant",
+        "yellow-black palette"
+      ],
+      "dims": "704x1472"
+    },
+    {
+      "file": "icon-sheet_service-labels_yellow_18up_768x1328.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "icon sheet",
+        "service labels",
+        "aeo",
+        "seo",
+        "ai visibility",
+        "yellow-black palette",
+        "rendered text artifacts"
+      ],
+      "dims": "768x1328"
+    },
+    {
+      "file": "auckland_sky-tower_harbour-dusk_784x1312.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "auckland",
+        "sky tower",
+        "skyline",
+        "harbour",
+        "dusk"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "homepage-mockup_benchmarks-news-site_dark-yellow_784x1312.jpg",
+      "category": "illustrative",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "homepage",
+        "mockup",
+        "benchmarks",
+        "news site",
+        "dark",
+        "yellow-black palette",
+        "mock ui"
+      ],
+      "dims": "784x1312"
+    },
+    {
+      "file": "earth_nz-glowing-network_space-closeup_784x1312.jpg",
+      "category": "backgrounds",
+      "source": "Grok",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 4 (benchmarks/yellow-black set), 11 Aug 2026",
+      "keywords": [
+        "earth",
+        "nz",
+        "glowing network",
+        "space",
+        "closeup",
+        "yellow-black palette"
+      ],
+      "dims": "784x1312"
+    }
   ]
 }
