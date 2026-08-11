@@ -1008,6 +1008,141 @@
         "contact"
       ],
       "dims": "1000x1000"
+    },
+    {
+      "file": "ocean-sunset_golden-clouds_calm_1500x1000.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Unsplash (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Unsplash — Sebastien Gabriel",
+      "keywords": [
+        "ocean",
+        "sunset",
+        "golden",
+        "clouds",
+        "calm sea"
+      ],
+      "dims": "1500x1000"
+    },
+    {
+      "file": "beach-sunset_pink-sky_birds_1000x1500.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Unsplash (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Unsplash — Nima Mot",
+      "keywords": [
+        "beach",
+        "sunset",
+        "pink sky",
+        "waves",
+        "birds"
+      ],
+      "dims": "1000x1500"
+    },
+    {
+      "file": "beach-dusk_pink-rocks_shoreline_1500x999.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Unsplash (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Unsplash — Ivan Ragozin",
+      "keywords": [
+        "beach",
+        "dusk",
+        "pink",
+        "rocks",
+        "shoreline"
+      ],
+      "dims": "1500x999"
+    },
+    {
+      "file": "beach-hut_boardwalk-sunset_tropical_1500x1000.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (Freepik pattern — owner to confirm)",
+      "keywords": [
+        "beach hut",
+        "boardwalk",
+        "sunset",
+        "tropical",
+        "timber",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "1500x1000"
+    },
+    {
+      "file": "family-swinging-son_lawn_modern-buildings_1500x1000.jpg",
+      "category": "illustrative",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (Freepik pattern — owner to confirm)",
+      "keywords": [
+        "family",
+        "child",
+        "lawn",
+        "lifestyle",
+        "stock people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "1500x1000"
+    },
+    {
+      "file": "kid-paper-plane_autumn-house_family-bg_1500x1000.jpg",
+      "category": "illustrative",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (Freepik pattern — owner to confirm)",
+      "keywords": [
+        "kid",
+        "paper plane",
+        "autumn",
+        "house",
+        "family",
+        "stock people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "1500x1000"
+    },
+    {
+      "file": "kid-paper-plane_golden-porch_closeup_1500x857.jpg",
+      "category": "illustrative",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (Freepik pattern — owner to confirm)",
+      "keywords": [
+        "kid",
+        "paper plane",
+        "golden hour",
+        "porch",
+        "family",
+        "stock people",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "1500x857"
+    },
+    {
+      "file": "eko-media_logo_navy.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "Eko Media brand asset",
+      "keywords": [
+        "eko media",
+        "logo",
+        "brand",
+        "navy",
+        "play triangle",
+        "note: navy variant, not deck green kernel"
+      ],
+      "dims": "580x580"
     }
   ]
 }
