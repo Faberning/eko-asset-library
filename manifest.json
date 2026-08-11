@@ -942,6 +942,72 @@
         "yellow-black palette"
       ],
       "dims": "784x1312"
+    },
+    {
+      "file": "aluminium-extrusion_die-glowing-billet_industrial_1344x768.jpg",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "AIA site build",
+      "keywords": [
+        "aluminium",
+        "extrusion",
+        "die",
+        "glowing billet",
+        "industrial",
+        "client-origin (AIA) — avoid reuse for competing joinery/extrusion clients"
+      ],
+      "dims": "1344x768"
+    },
+    {
+      "file": "aluminium-profiles_custom-vs-standard_studio_1344x768.jpg",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "AIA site build",
+      "keywords": [
+        "aluminium",
+        "profiles",
+        "extrusion",
+        "studio",
+        "silver",
+        "client-origin (AIA) — avoid reuse for competing joinery/extrusion clients"
+      ],
+      "dims": "1344x768"
+    },
+    {
+      "file": "desert-villa_sunset-glow_luxury_1000x1500.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "website build stock (filename pattern suggests Freepik — owner to confirm)",
+      "keywords": [
+        "desert villa",
+        "modern architecture",
+        "sunset",
+        "luxury",
+        "us southwest look",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "1000x1500"
+    },
+    {
+      "file": "icon-phone_gold.png",
+      "category": "illustrative",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-08-11",
+      "origin": "owner-supplied batch 5, 11 Aug 2026",
+      "keywords": [
+        "icon",
+        "phone",
+        "gold",
+        "contact"
+      ],
+      "dims": "1000x1000"
     }
   ]
 }
