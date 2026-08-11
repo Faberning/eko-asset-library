@@ -1143,6 +1143,61 @@
         "note: navy variant, not deck green kernel"
       ],
       "dims": "580x580"
+    },
+    {
+      "file": "nz-coastal-bay-aerial.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "Unsplash (free commercial)",
+      "date": "2026-08-11",
+      "origin": "Unsplash — David Tip",
+      "keywords": [
+        "nz coastline",
+        "aerial",
+        "turquoise bay",
+        "white sand beach",
+        "headland",
+        "bush",
+        "ocean"
+      ],
+      "dims": "2560x1707"
+    },
+    {
+      "file": "ai-android-head-profile.jpg",
+      "category": "illustrative",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "owner-supplied stock (source TBC by owner)",
+      "keywords": [
+        "fictional person",
+        "android",
+        "robot head",
+        "ai",
+        "transparent skull",
+        "mechanical brain",
+        "profile",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "2560x1440"
+    },
+    {
+      "file": "plasma-orb-blue-purple.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "stock — PENDING VERIFICATION",
+      "date": "2026-08-11",
+      "origin": "owner-supplied (source/generation method TBC)",
+      "keywords": [
+        "plasma ball",
+        "electric orb",
+        "lightning",
+        "blue purple",
+        "dark background",
+        "energy",
+        "LICENCE PENDING — no client-facing reuse until confirmed"
+      ],
+      "dims": "960x960"
     }
   ]
 }
