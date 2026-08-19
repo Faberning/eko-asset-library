@@ -1293,6 +1293,96 @@
         "section bg"
       ],
       "dims": "1000x563"
+    },
+    {
+      "file": "eko-android-auditor_magnifier_2026-08-10.jpg",
+      "category": "illustrative",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-10",
+      "origin": "AF/WU client decks v1.1 - Z-Image turbo (HF Gen); shared mascot, seed 70081 - reuse this seed for coherent variants",
+      "keywords": [
+        "eko",
+        "android",
+        "auditor",
+        "mascot",
+        "magnifier",
+        "audit",
+        "green"
+      ],
+      "dims": "832x1248"
+    },
+    {
+      "file": "eko-android-auditor_leaderboard_2026-08-10.jpg",
+      "category": "illustrative",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-10",
+      "origin": "AF/WU client decks v1.1 - Z-Image turbo (HF Gen); shared mascot, seed 70081 - reuse this seed for coherent variants",
+      "keywords": [
+        "eko",
+        "android",
+        "auditor",
+        "mascot",
+        "leaderboard",
+        "chart",
+        "ranking",
+        "green"
+      ],
+      "dims": "832x1248"
+    },
+    {
+      "file": "nz-suburban-street-dusk_2026-08-10.jpg",
+      "category": "backgrounds",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-10",
+      "origin": "AF/WU client decks v1.1 - Z-Image turbo (HF Gen)",
+      "keywords": [
+        "nz",
+        "new zealand",
+        "suburban",
+        "street",
+        "dusk",
+        "houses",
+        "hills",
+        "cabbage tree"
+      ],
+      "dims": "1280x548"
+    },
+    {
+      "file": "paper-topo-light_2026-08-10.jpg",
+      "category": "textures",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-10",
+      "origin": "AF/WU client decks v1.1 - Z-Image turbo (HF Gen)",
+      "keywords": [
+        "paper",
+        "topo",
+        "contour",
+        "light",
+        "cream",
+        "subtle"
+      ],
+      "dims": "1100x618"
+    },
+    {
+      "file": "ink-topo-glow-dark_2026-08-10.jpg",
+      "category": "textures",
+      "source": "Z-Image",
+      "licence": "Eko-owned",
+      "date": "2026-08-10",
+      "origin": "AF/WU client decks v1.1 - Z-Image turbo (HF Gen)",
+      "keywords": [
+        "ink",
+        "topo",
+        "glow",
+        "dark",
+        "green",
+        "gradient"
+      ],
+      "dims": "1100x618"
     }
   ]
 }
