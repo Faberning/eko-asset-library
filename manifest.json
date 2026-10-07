@@ -1593,6 +1593,41 @@
         "wood"
       ],
       "dims": "900x600"
+    },
+    {
+      "file": "orange-cup-spilling-coffee-beans_dark-slate_1920x1280.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "CC0 1.0 (public domain) via Openverse; wikimedia",
+      "date": "2026-10-07",
+      "origin": "Jed's Coffee visibility review v2.1 (sharper hero/band, p0 mirrored). Photographer: Christoph. Page: https://commons.wikimedia.org/w/index.php?curid=46261267",
+      "keywords": [
+        "coffee",
+        "beans",
+        "cup",
+        "orange",
+        "dark",
+        "slate",
+        "hero"
+      ],
+      "dims": "1920x1280"
+    },
+    {
+      "file": "black-coffee-mug_beans-overhead_dark_1920x1280.jpg",
+      "category": "backgrounds",
+      "source": "photo",
+      "licence": "CC0 1.0 (public domain) via Openverse; wikimedia",
+      "date": "2026-10-07",
+      "origin": "Jed's Coffee visibility review v2.1 (sharper hero/band, p0 mirrored). Photographer: Toni Cuenca. Page: https://commons.wikimedia.org/w/index.php?curid=99398568",
+      "keywords": [
+        "coffee",
+        "mug",
+        "beans",
+        "overhead",
+        "dark",
+        "black coffee"
+      ],
+      "dims": "1920x1280"
     }
   ]
 }
