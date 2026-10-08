@@ -1628,6 +1628,201 @@
         "black coffee"
       ],
       "dims": "1920x1280"
+    },
+    {
+      "file": "espresso-cup_walnut-counter-roastery_dark-left-space_1600x1008.jpg",
+      "category": "backgrounds",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "espresso",
+        "cup",
+        "roastery",
+        "walnut",
+        "dark",
+        "hero"
+      ],
+      "dims": "1600x1008"
+    },
+    {
+      "file": "coffee-beans-pouring-copper-scoop_slate_dark-left-space_1600x912.jpg",
+      "category": "backgrounds",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "coffee beans",
+        "copper scoop",
+        "slate",
+        "dark"
+      ],
+      "dims": "1600x912"
+    },
+    {
+      "file": "black-coffee-mug-on-beans_overhead_dark-left-space_1600x912.jpg",
+      "category": "backgrounds",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "coffee",
+        "mug",
+        "beans",
+        "overhead",
+        "dark"
+      ],
+      "dims": "1600x912"
+    },
+    {
+      "file": "laptop-code-espresso_night-desk_1536x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "laptop",
+        "code",
+        "technical",
+        "espresso",
+        "night"
+      ],
+      "dims": "1536x1024"
+    },
+    {
+      "file": "hands-smartphone-flat-white_cafe_1536x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "hands",
+        "smartphone",
+        "cafe",
+        "flat white",
+        "mobile"
+      ],
+      "dims": "1536x1024"
+    },
+    {
+      "file": "pour-over-gooseneck-kettle_dark-rim-light_1536x1024.jpg",
+      "category": "backgrounds",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "pour over",
+        "kettle",
+        "brewing",
+        "dark",
+        "close"
+      ],
+      "dims": "1536x1024"
+    },
+    {
+      "file": "two-french-presses_walnut-counter_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "french press",
+        "plunger",
+        "coffee"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "unbranded-coffee-capsules-row_slate_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "capsules",
+        "pods",
+        "coffee"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "instant-coffee-granules-spoon-jar_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "instant",
+        "freeze dried",
+        "granules"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "roasted-coffee-beans-macro_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "beans",
+        "macro",
+        "whole bean"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "burlap-sack-coffee-beans-scoop_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "sack",
+        "beans",
+        "bulk",
+        "warehouse"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "espresso-pour-portafilter-glass_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "espresso",
+        "crema",
+        "portafilter"
+      ],
+      "dims": "1024x1024"
+    },
+    {
+      "file": "latte-art-leaf-ceramic-cup_walnut_1024x1024.jpg",
+      "category": "illustrative",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.2. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "latte",
+        "latte art",
+        "cafe style"
+      ],
+      "dims": "1024x1024"
     }
   ]
 }
