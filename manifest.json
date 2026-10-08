@@ -1823,6 +1823,73 @@
         "cafe style"
       ],
       "dims": "1024x1024"
+    },
+    {
+      "file": "espresso-cup-golden-morning-light_walnut-roastery_warm-left-space_1600x1008.jpg",
+      "category": "backgrounds",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.4. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "espresso",
+        "cup",
+        "sunlight",
+        "golden hour",
+        "roastery",
+        "hero",
+        "warm"
+      ],
+      "dims": "1600x1008"
+    },
+    {
+      "file": "coffee-beans-on-cream-linen_light-top-right_1600x1008.jpg",
+      "category": "textures",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.4. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "beans",
+        "linen",
+        "cream",
+        "light",
+        "ground"
+      ],
+      "dims": "1600x1008"
+    },
+    {
+      "file": "latte-foam-swirl-macro_light_1600x1008.jpg",
+      "category": "textures",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.4. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "latte",
+        "foam",
+        "macro",
+        "cream",
+        "light",
+        "ground"
+      ],
+      "dims": "1600x1008"
+    },
+    {
+      "file": "dark-roast-beans-slate-smoke_dark-top-right_1600x1008.jpg",
+      "category": "textures",
+      "source": "Flux",
+      "licence": "Eko-owned",
+      "date": "2026-10-08",
+      "origin": "Jed's Coffee visibility review v2.4. Model: black-forest-labs/flux.2-max via Pollinations",
+      "keywords": [
+        "beans",
+        "slate",
+        "smoke",
+        "dark",
+        "ground"
+      ],
+      "dims": "1600x1008"
     }
   ]
 }
