@@ -1383,6 +1383,22 @@
         "gradient"
       ],
       "dims": "1100x618"
+    },
+    {
+      "file": "eko-calm-pulse-bed-96bpm-61s_2026-11-13.mp3",
+      "category": "audio",
+      "source": "hand",
+      "licence": "Eko-owned",
+      "date": "2026-11-13",
+      "origin": "Eko GEO lever video 'AI shopping agents' (ekomedia.co.nz, YouTube dhobALc5OuA). Synthesised in code (numpy pad Am-F-C-G + soft 8th pulse, 96 bpm); script music.py in Eko Media project files geo/eko/ai-shopping-agents-nz/video/source/. No samples or third-party audio.",
+      "keywords": [
+        "music bed",
+        "calm",
+        "pulse",
+        "explainer",
+        "96bpm",
+        "under voiceover"
+      ]
     }
   ]
 }
