@@ -8,6 +8,7 @@ Eko's owned, reusable, **licence-clean** image assets — the compounding librar
 
 ## What goes in (the scope fence)
 - YES: Eko-generated/owned illustrative imagery, textures, backgrounds, mesh/gradient/noise assets we made.
+- YES (from 14 Nov 2026, Freddie): Eko-made music beds and soundtracks in `audio/`, for example from the in-house synth or a music generator whose licence lets Eko redistribute them. Voiceovers and licensed tracks are NOT in scope: they go to the private Drive library `G:\My Drive\Eko Projects\_Eko Shared\Asset library (private)\` (rule: eko-vault `standards/handover-standard.md`).
 - NEVER: client-owned photography, licensed stock, images with identifiable people, per-client brand/favicon marks, third-party trademarks, regulated-client imagery. Those stay in the client's project. When in doubt, out.
 
 Full rule: `eko-website-build/references/icons-assets.md`.

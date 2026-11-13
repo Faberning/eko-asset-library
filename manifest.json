@@ -1,7 +1,7 @@
 {
   "_schema": {
     "file": "filename",
-    "category": "backgrounds | textures | illustrative",
+    "category": "backgrounds | textures | illustrative | audio",
     "source": "Flux | Grok | Gemini | photo | Z-Image | PIL | extracted | hand",
     "licence": "Eko-owned | Pexels (free commercial) — photographer recorded in origin",
     "date": "YYYY-MM-DD",
